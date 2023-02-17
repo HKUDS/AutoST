@@ -1,3 +1,5 @@
+
+![Framework](./picture/framework.jpg)
 # Automated Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoST) #
 This is the implementation of Automated Spatial-Temporal Graph Contrastive Learning for Region Representation (AutoST) in the following paper:
 
@@ -40,3 +42,13 @@ Run `main.py`.
 
 ## House prediction task ##
 We use Lasso Regression to perform house price evaluation task.
+
+## Citing ##
+If our paper benefits to your research, please cite our paper as following:
+
+    @inproceedings{zhang2023autost,
+      title={Automated Spatio-Temporal Graph Contrastive Learning},
+      author={Zhang, Qianru and Huang, Chao and Xia, Lianghao and Li, Zhonghang and Yiu, Siuming},
+      booktitle={Proceedings of the Web Conference (WWW)},
+      year={2023}
+    }
