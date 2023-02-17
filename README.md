@@ -44,7 +44,7 @@ Run `main.py`.
 We use Lasso Regression to perform house price evaluation task.
 
 ## Citing ##
-If our paper benefits to your research, please cite our paper as following:
+If our paper benefits to your research, please cite our paper using the bitex below:
 
     @inproceedings{zhang2023autost,
       title={Automated Spatio-Temporal Graph Contrastive Learning},
