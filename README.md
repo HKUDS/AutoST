@@ -34,7 +34,7 @@ The code of the ST-SHN is [https://github.com/akaxlh/ST-SHN](https://github.com/
 Replace the area embedding with the region represenation vetcor and run `HG_ST_labcode.py`.
 
 Results of Crime Prediction task
-![Framework](./picture/crime_pre.jpg)
+![Crime Prediction](./picture/crime_pre.jpg)
 
 ## Traffic prediction task ##
 The code of the ST-GCN is [https://github.com/VeritasYin/STGCN_IJCAI-18](https://github.com/VeritasYin/STGCN_IJCAI-18)
@@ -42,7 +42,7 @@ ST-GCN predicts traffic in three stages, namely 15 minutes, 30 minutes, 45 minut
 Run `main.py`.
 
 Results of Traffic Prediction task
-![Framework](./picture/traffic_pre.jpg)
+![Traffic Prediction](./picture/traffic_pre.jpg)
 
 ## House prediction task ##
 We use Lasso Regression to perform house price evaluation task.
