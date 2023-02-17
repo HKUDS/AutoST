@@ -1,7 +1,7 @@
 
 ![Framework](./picture/framework.jpg)
 # Automated Spatio-Temporal Graph Contrastive Learning #
-This is the implementation of Automated Spatio-Temporal Graph Contrastive Learning (AutoST) in the following paper:
+This is the implementation of Automated Spatio-Temporal Graph Contrastive Learning (AutoST):
 
 ## Requirements ##
 Pytorch = 1.7.0 and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
