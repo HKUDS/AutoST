@@ -15,7 +15,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch_geometric.data import InMemoryDataset
-from modelnew import GNN
+from model import GNN
 from sklearn.metrics import roc_auc_score
 import pandas as pd
 from copy import deepcopy
