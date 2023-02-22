@@ -111,6 +111,7 @@ class vgae(nn.Module):
         x_mean = self.encoder_mean(x)
         x_std = self.encoder_std(x)
         gaussian_noise = torch.randn(x_mean.shape).to(x.device)
+        x = gaussian_noise * x_std + x_mean
         return x, x_mean, x_std
 
     def forward_decoder(self, x, edge_index, edge_index_neg):
