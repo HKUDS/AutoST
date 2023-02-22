@@ -4,7 +4,7 @@
 This is the implementation of Automated Spatio-Temporal Graph Contrastive Learning (AutoST):
 
 ## Requirements ##
-python = 3.7.13, Pytorch = 1.12.0 with cuda = 10.2  and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
+Python = 3.7.13, pytorch = 1.12.0 with cuda = 10.2  and Tensorflow = 1.15.3 (crime prediction task (ST-SHN))
 
 ## Data ##
 Moblity data, crime data, census block data, POI data, house price of Chicago ([https://data.cityofchicago.org/](https://data.cityofchicago.org/)) and New York([https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/)).
