@@ -9,6 +9,7 @@ Python = 3.7.13, pytorch = 1.12.0 with cuda = 10.2  and Tensorflow = 1.15.3 (cri
 ## Data ##
 Moblity data, crime data, census block data, POI data, house price of Chicago ([https://data.cityofchicago.org/](https://data.cityofchicago.org/)) and New York([https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/)).
 Also, we provide the process data and processing code for data preprocessing.
+And process data for traffic prediction task and crime prediction task can be loaded via the link https://drive.google.com/drive/folders/1MEi1YqB54-YzluFFp2As1aiEL_KpGXqG?usp=sharing
 
 ## Data Preocessing ##
     pre_s1.py # collecing positions of 180 (234) regions in Manhatton (a certain district) in New York (Chicago).
