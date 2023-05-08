@@ -52,9 +52,9 @@ We use Lasso Regression to perform house price evaluation task.
 If our paper benefits to your research, please cite our paper using the bitex below:
 
     @inproceedings{zhang2023automated,
-  title={Automated Spatio-Temporal Graph Contrastive Learning},
-  author={Zhang, Qianru and Huang, Chao and Xia, Lianghao and Wang, Zheng and Li, Zhonghang and Yiu, Siuming},
-  booktitle={Proceedings of the ACM Web Conference 2023},
-  pages={295--305},
-  year={2023}
+    title={Automated Spatio-Temporal Graph Contrastive Learning},
+    author={Zhang, Qianru and Huang, Chao and Xia, Lianghao and Wang, Zheng and Li, Zhonghang and Yiu, Siuming},
+    booktitle={Proceedings of the ACM Web Conference 2023},
+    pages={295--305},
+    year={2023}
 }
