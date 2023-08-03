@@ -21,7 +21,7 @@ import pandas as pd
 from copy import deepcopy
 from torch_geometric.nn import global_mean_pool, global_add_pool
 from loader_aug import Dataset_graphcl
-from loadernew import BioDataset_graphcl, BioDataset_graphcl1
+from loader import BioDataset_graphcl, BioDataset_graphcl1
 from sklearn.cluster import KMeans 
 from sklearn.metrics import adjusted_mutual_info_score
 import json
